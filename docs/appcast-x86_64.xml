@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ReSync</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Wed, 11 Feb 2026 22:19:11 +0100</pubDate>
+            <sparkle:version>0484</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/earbash3-byte/ReSync-Releases/releases/download/v1.0.0/ReSync-1.0.0-x86_64.zip" length="21275326" type="application/octet-stream" sparkle:edSignature="DKxm+o28Ug+5SQScf3jtyv341OAB53z+KZsmrjbo9+lmI0Dq41yFJ1y6TfTW+mAk7Ze0dAxYV75aAJqVFUS6Bg=="/>
+        </item>
+        <item>
+            <title>0.9</title>
+            <pubDate>Tue, 10 Feb 2026 15:18:06 +0100</pubDate>
+            <sparkle:version>0474</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/earbash3-byte/ReSync-Releases/releases/download/v0.9/ReSync-0.9-x86_64.zip" length="21266697" type="application/octet-stream" sparkle:edSignature="3OekItIHUTQWDvqRX/vGsaF7hJB16h6W4nN6ld/I/g5ZdJEKfFXXfGKN/suR5/C8RHkXRSkmc4TTxpMQ/ILjDw=="/>
+        </item>
+        <item>
+            <title>0.9</title>
+            <pubDate>Tue, 10 Feb 2026 14:38:45 +0100</pubDate>
+            <sparkle:version>0473</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/earbash3-byte/ReSync-Releases/releases/download/v0.9/ReSync-0.9-x86_64.zip" length="21266707" type="application/octet-stream" sparkle:edSignature="C+xdEeJcqwvA0bWCwEQoG9QiCPmn/ogVIYLDYGtU+h9VBJQzY294Q/MCCOLwDft0JVHZPBMOF0baWRnnUzQCBg=="/>
+        </item>
+    </channel>
+</rss>
