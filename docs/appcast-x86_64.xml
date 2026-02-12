@@ -3,6 +3,14 @@
     <channel>
         <title>ReSync</title>
         <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 12 Feb 2026 13:52:47 +0100</pubDate>
+            <sparkle:version>0486</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/earbash3-byte/ReSync-Releases/releases/download/v1.0.0/ReSync-1.0.0-x86_64.zip" length="21275328" type="application/octet-stream" sparkle:edSignature="Ptej09MQ8gIpREy62jxLxozoA+0ADp7xDiWpaYaJdGwOsnkRmhrPFHzDNaOOL3cyccrd6ANGnxTKxS7d9XBZDA=="/>
+        </item>
+        <item>
             <title>0.9</title>
             <pubDate>Wed, 11 Feb 2026 22:19:11 +0100</pubDate>
             <sparkle:version>0484</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/earbash3-byte/ReSync-Releases/releases/download/v0.9/ReSync-0.9-x86_64.zip" length="21266697" type="application/octet-stream" sparkle:edSignature="3OekItIHUTQWDvqRX/vGsaF7hJB16h6W4nN6ld/I/g5ZdJEKfFXXfGKN/suR5/C8RHkXRSkmc4TTxpMQ/ILjDw=="/>
-        </item>
-        <item>
-            <title>0.9</title>
-            <pubDate>Tue, 10 Feb 2026 14:38:45 +0100</pubDate>
-            <sparkle:version>0473</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/earbash3-byte/ReSync-Releases/releases/download/v0.9/ReSync-0.9-x86_64.zip" length="21266707" type="application/octet-stream" sparkle:edSignature="C+xdEeJcqwvA0bWCwEQoG9QiCPmn/ogVIYLDYGtU+h9VBJQzY294Q/MCCOLwDft0JVHZPBMOF0baWRnnUzQCBg=="/>
         </item>
     </channel>
 </rss>
