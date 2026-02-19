@@ -63,7 +63,7 @@ ReSync is designed for controlled changes, but operational safety still depends 
 ## 🚀 Latest release info
 
 - Download binaries from GitHub Releases.
-- See `CHANGELOG.md` for latest release notes.
+- See [CHANGELOG.md](./CHANGELOG.md) for latest release notes.
 
 ## 🍎 macOS first launch (unsigned build)
 
