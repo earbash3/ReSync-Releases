@@ -5,13 +5,12 @@
   <strong>Open. Compare. Sync. Done.</strong>
 </p>
 
-[![GitHub downloads](https://img.shields.io/github/downloads/earbash3-byte/ReSync-Releases/total?label=GitHub%20downloads&style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/earbash3-byte/ReSync-Releases?label=Latest%20release&style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
-[![Website](https://img.shields.io/badge/Website-resyncapp.com-1d2a44?style=for-the-badge)](https://resyncapp.com)
-[![Documentation](https://img.shields.io/badge/Documentation-Read%20guide-1d2a44?style=for-the-badge)](https://resyncapp.com/docs.html)
-
-[![Download for Apple Silicon](https://img.shields.io/badge/Download-Apple%20Silicon%20(arm64)-5dd9ff?style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
-[![Download for Intel](https://img.shields.io/badge/Download-Intel%20(x86_64)-5dd9ff?style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
+[![GitHub downloads](https://img.shields.io/github/downloads/earbash3-byte/ReSync-Releases/total?label=GitHub%20downloads)](https://github.com/earbash3-byte/ReSync-Releases/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/earbash3-byte/ReSync-Releases?label=Latest%20release)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
+[![Website](https://img.shields.io/badge/Website-resyncapp.com-1d2a44)](https://resyncapp.com)
+[![Documentation](https://img.shields.io/badge/Documentation-Read%20guide-1d2a44)](https://resyncapp.com/docs.html)
+[![Download Apple Silicon](https://img.shields.io/badge/Download-Apple%20Silicon%20(arm64)-5dd9ff)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
+[![Download Intel](https://img.shields.io/badge/Download-Intel%20(x86_64)-5dd9ff)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
 
 ## ❓ What is ReSync?
 
