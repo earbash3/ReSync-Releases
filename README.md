@@ -1,16 +1,18 @@
-# 🎛️ ReSync
+# ReSync
 
 <p>
   Folder workflow sync for Rekordbox.<br>
   <strong>Open. Compare. Sync. Done.</strong>
 </p>
 
-<p>
-  <a href="https://resyncapp.com"><img alt="Website" src="https://img.shields.io/badge/Website-resyncapp.com-5dd9ff?style=for-the-badge"></a>
-  <a href="https://resyncapp.com/docs.html"><img alt="Documentation" src="https://img.shields.io/badge/Documentation-Read%20the%20guide-1d2a44?style=for-the-badge"></a>
-  <a href="https://resyncapp.com/changelog.html"><img alt="Changelog" src="https://img.shields.io/badge/Changelog-Latest%20changes-1d2a44?style=for-the-badge"></a>
-  <a href="https://resyncapp.com/support.html"><img alt="Support" src="https://img.shields.io/badge/Support-Open%20support%20page-1d2a44?style=for-the-badge"></a>
-</p>
+[![GitHub downloads](https://img.shields.io/github/downloads/earbash3-byte/ReSync-Releases/total?label=GitHub%20downloads)](https://github.com/earbash3-byte/ReSync-Releases/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/earbash3-byte/ReSync-Releases?label=Latest%20release)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
+[![Website](https://img.shields.io/badge/Website-resyncapp.com-1d2a44)](https://resyncapp.com)
+[![Documentation](https://img.shields.io/badge/Documentation-Read%20guide-1d2a44)](https://resyncapp.com/docs.html)
+
+[![Download latest release](https://img.shields.io/badge/Download-Latest%20release-5dd9ff?style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
+[![Open documentation](https://img.shields.io/badge/Open-Documentation-1d2a44?style=for-the-badge)](https://resyncapp.com/docs.html)
+[![Open support page](https://img.shields.io/badge/Open-Support%20page-1d2a44?style=for-the-badge)](https://resyncapp.com/support.html)
 
 ## ❓ What is ReSync?
 
@@ -27,27 +29,27 @@ This keeps control in your hands while removing a large part of repetitive libra
 
 ## 🎧 Why ReSync?
 
-- 🎧 Built around a real DJ pain point: doing the same organizational work twice.
-- 🔎 Compare-first workflow: clear visibility before any write operation.
-- ✅ Approval-based execution: no blind background write process.
-- 🧭 Folder-oriented model: your existing structure remains the source of truth.
-- ⏱ Less admin overhead, more time for crate quality and set preparation.
+- Built around a real DJ pain point: doing the same organizational work twice.
+- Compare-first workflow: clear visibility before any write operation.
+- Approval-based execution: no blind background write process.
+- Folder-oriented model: your existing structure remains the source of truth.
+- Less admin overhead, more time for crate quality and set preparation.
 
 ## ⚙️ How it works
 
-### 1) 📂 Open
+### 1) Open
 
 Open or import your Rekordbox library data.
 
-### 2) 🔎 Compare
+### 2) Compare
 
 ReSync scans your selected music-folder structure and compares it with your current Rekordbox state.
 
-### 3) 👀 Preview
+### 3) Preview
 
 You get a reviewable list of proposed additions/removals before any write step.
 
-### 4) ✅ Sync
+### 4) Sync
 
 Changes are applied only after you confirm.
 No confirmation means no write.
@@ -67,19 +69,19 @@ ReSync is designed for controlled changes, but operational safety still depends 
 
 ## ⬇️ Get ReSync
 
-🎯 **Official Release Assets:**  
+**Official Release Assets:**  
 https://github.com/earbash3-byte/ReSync-Releases/releases
 
-🌐 **Project Site:**  
+**Project Site:**  
 https://resyncapp.com
 
-📘 **Documentation:**  
+**Documentation:**  
 https://resyncapp.com/docs.html
 
-📝 **Changelog:**  
+**Changelog:**  
 https://resyncapp.com/changelog.html
 
-🛠 **Support Form:**  
+**Support Form:**  
 https://resyncapp.com/support.html
 
 ## 🧩 Requirements
