@@ -10,9 +10,8 @@
 [![Website](https://img.shields.io/badge/Website-resyncapp.com-1d2a44)](https://resyncapp.com)
 [![Documentation](https://img.shields.io/badge/Documentation-Read%20guide-1d2a44)](https://resyncapp.com/docs.html)
 
-[![Download latest release](https://img.shields.io/badge/Download-Latest%20release-5dd9ff?style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
-[![Open documentation](https://img.shields.io/badge/Open-Documentation-1d2a44?style=for-the-badge)](https://resyncapp.com/docs.html)
-[![Open support page](https://img.shields.io/badge/Open-Support%20page-1d2a44?style=for-the-badge)](https://resyncapp.com/support.html)
+[![Download for Apple Silicon](https://img.shields.io/badge/Download-Apple%20Silicon%20(arm64)-5dd9ff?style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
+[![Download for Intel](https://img.shields.io/badge/Download-Intel%20(x86_64)-5dd9ff?style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
 
 ## ❓ What is ReSync?
 
