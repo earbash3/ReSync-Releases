@@ -1,90 +1,61 @@
 <div align="center">
 
-# ReSync Releases
-### Folder-first sync for Rekordbox
+# ReSync
+### Your folders. Your workflow. No library babysitting.
 
-**Public release channel for binaries and Sparkle appcasts**
+**Stop managing libraries. Start playing.**
 
-[![Flathub downloads](https://img.shields.io/badge/Flathub%20downloads-not%20available%20yet-9ca3af?style=for-the-badge)](#package-channels)
-[![GitHub downloads](https://img.shields.io/github/downloads/earbash3-byte/ReSync-Releases/total?label=GitHub%20downloads&style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/earbash3-byte/ReSync-Releases?label=latest%20release&style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
-[![Flathub](https://img.shields.io/badge/Flathub-not%20available%20yet-9ca3af?style=for-the-badge)](#package-channels)
-[![Snapcraft](https://img.shields.io/badge/Snapcraft-not%20available%20yet-9ca3af?style=for-the-badge)](#package-channels)
-[![Chocolatey Version](https://img.shields.io/badge/Chocolatey-not%20available%20yet-9ca3af?style=for-the-badge)](#package-channels)
-[![WinGet Package Version](https://img.shields.io/badge/WinGet-not%20available%20yet-9ca3af?style=for-the-badge)](#package-channels)
+[![GitHub downloads](https://img.shields.io/github/downloads/earbash3-byte/ReSync-Releases/total?label=GitHub%20downloads)](https://github.com/earbash3-byte/ReSync-Releases/releases)
+[![Latest release](https://img.shields.io/github/v/release/earbash3-byte/ReSync-Releases?label=latest%20release)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
+[![Platform](https://img.shields.io/badge/platform-macOS%2013%2B-0b7285)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
 
-[![Download macOS Apple Silicon (DMG)](https://img.shields.io/badge/Download%20DMG-Apple%20Silicon-111827?style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
-[![Download macOS Intel (DMG)](https://img.shields.io/badge/Download%20DMG-Intel-111827?style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-0b7285?style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
-
-[![Get it from the Snap Store](https://img.shields.io/badge/Get%20it%20from%20the%20Snap%20Store-coming%20soon-9ca3af?style=for-the-badge)](#package-channels)
-[![Get AppImage](https://img.shields.io/badge/Get%20AppImage-coming%20soon-9ca3af?style=for-the-badge)](#package-channels)
-[![Chocolatey](https://img.shields.io/badge/Chocolatey-coming%20soon-9ca3af?style=for-the-badge)](#package-channels)
-
-[Latest Release](https://github.com/earbash3-byte/ReSync-Releases/releases/latest) • [Main Project](https://github.com/earbash3-byte/ReSync) • [Website](https://earbash3-byte.github.io/ReSync)
+[Download Latest Release](https://github.com/earbash3-byte/ReSync-Releases/releases/latest) • [Website](https://earbash3-byte.github.io/ReSync) • [Source Code](https://github.com/earbash3-byte/ReSync)
 
 </div>
 
 ---
 
-## 🎯 What This Repository Is
+## Why ReSync
 
-This repository is the **public release channel** for ReSync:
+If your real workflow lives in folders, ReSync keeps Rekordbox aligned with it.
 
-- ✅ DMG/ZIP release assets
-- ✅ Sparkle appcast feeds
-- ✅ public release changelog
-- ✅ stable entrypoint for end users
+No duplicate maintenance.
+No manual import loops.
+No pre-set surprises.
 
-For source code and development workflow, use the main repository:
+## How It Works
 
-- https://github.com/earbash3-byte/ReSync
+1. Open your library
+2. Compare folders vs. Rekordbox
+3. Review changes in preview
+4. Apply sync when you approve
 
-## 🚀 Download (Current)
+Simple, controlled, DJ-friendly.
 
-ReSync currently ships on **macOS**:
+## Download
 
-- 🍎 Apple Silicon (`arm64`) -> DMG + ZIP
-- 🍎 Intel (`x86_64`) -> DMG + ZIP
+ReSync release assets are published on GitHub Releases.
 
-Download from:
+Current builds:
+
+- Apple Silicon (`arm64`) - DMG + ZIP
+- Intel (`x86_64`) - DMG + ZIP
+
+Get the latest:
 
 - https://github.com/earbash3-byte/ReSync-Releases/releases/latest
 
-## 🔄 Auto-Update Feeds (Sparkle)
-
-Architecture feeds:
+## Auto-Update Feeds (Sparkle)
 
 - arm64: https://earbash3-byte.github.io/ReSync-Releases/appcast-arm64.xml
 - x86_64: https://earbash3-byte.github.io/ReSync-Releases/appcast-x86_64.xml
+- compatibility feed: https://earbash3-byte.github.io/ReSync-Releases/appcast.xml
 
-Compatibility feed:
+## Changelog
 
-- https://earbash3-byte.github.io/ReSync-Releases/appcast.xml
+- [CHANGELOG.md](./CHANGELOG.md)
 
-## 📦 Package Channels
+## Support
 
-Current channel status:
-
-- ✅ GitHub Releases: active
-- ⏳ Flathub: planned
-- ⏳ Snapcraft: planned
-- ⏳ Chocolatey: planned
-- ⏳ WinGet: planned
-- ⏳ AppImage: planned
-
-## 🗒️ Changelog
-
-Current changelog lives in:
-
-- [`CHANGELOG.md`](./CHANGELOG.md)
-
-## 🛟 Support
-
-- Technical support: support@resyncapp.com
-- Licensing: license@resyncapp.com
-
-## ⚠️ Notes
-
-- ReSync is currently distributed via GitHub Releases as the canonical channel.
-- Package-manager channels listed above are roadmap targets until explicitly marked active.
+- support@resyncapp.com
+- license@resyncapp.com
