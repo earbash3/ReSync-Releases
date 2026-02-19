@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en" data-page="docs">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ReSync | Documentation</title>
+  <link rel="stylesheet" href="./fonts.css?v=3">
+  <link rel="stylesheet" href="./subpage.css?v=3">
+</head>
+<body>
+  <main>
+    <div class="top">
+      <h1 data-i18n="heading">Documentation</h1>
+      <div class="top-controls">
+        <a class="back" href="./index.html" data-i18n="back">Back to site</a>
+      </div>
+    </div>
+    <p data-i18n="intro">Operational reference for installing, licensing, and safely using ReSync.</p>
+    <p data-i18n="intro_2">Use this page as a practical checklist before running any write operation against your Rekordbox data.</p>
+
+    <section class="important-notice" aria-label="Important notice">
+      <h2 data-i18n="notice_title">Important Notice (Current Build Status)</h2>
+      <p data-i18n="notice_intro">Before first use, review these requirements:</p>
+      <ul>
+      <li data-i18n="notice_1">This build is currently not notarized, so macOS Gatekeeper may block the first launch.</li>
+        <li data-i18n="notice_2">If blocked, allow ReSync manually in System Settings &gt; Privacy &amp; Security with Open Anyway.</li>
+      <li data-i18n="notice_3">ReSync requires Keychain access to store and read license data required for activation and validation.</li>
+        <li data-i18n="notice_4">Without Gatekeeper approval and Keychain permission, licensing cannot work and the app is not usable as intended.</li>
+        <li data-i18n="notice_5">ReSync does not run in-app analytics or tracking.</li>
+        <li data-i18n="notice_6">License material is stored locally in macOS Keychain. See the Privacy page for workflow-level data handling.</li>
+      </ul>
+    </section>
+
+    <h2 data-i18n="what_title">What ReSync does</h2>
+    <p data-i18n="what_text">ReSync keeps your folders and Rekordbox library in sync by applying changes only after comparison and approval.</p>
+    <p data-i18n="what_text_2">The app is intentionally conservative: it emphasizes visibility, explicit review, and deliberate execution over hidden automation.</p>
+
+    <h2 data-i18n="requirements_title">Requirements</h2>
+    <ul>
+      <li data-i18n="requirements_1">A macOS version supported by the current ReSync release.</li>
+      <li data-i18n="requirements_2">A valid Rekordbox library and accessible music folders.</li>
+      <li data-i18n="requirements_3">A valid license key for activation and normal operation.</li>
+      <li data-i18n="requirements_4">An active internet connection is required for proper operation.</li>
+      <li data-i18n="requirements_5">Permissions for local file access and Keychain usage.</li>
+    </ul>
+    <p data-i18n="requirements_note">If one requirement is missing, behavior can be limited or blocked by design to protect data integrity.</p>
+
+    <h2 data-i18n="quick_title">Quick Start</h2>
+    <ol>
+      <li data-i18n="quick_1">Install and launch ReSync.</li>
+      <li data-i18n="quick_2">Open or import your Rekordbox library.</li>
+      <li data-i18n="quick_3">Run Compare to detect differences against your folders.</li>
+      <li data-i18n="quick_4">Review all proposed changes in Preview.</li>
+      <li data-i18n="quick_5">Apply Sync only after explicit confirmation.</li>
+    </ol>
+    <p data-i18n="quick_note">For first-time setup, prefer a small test subset before running broader sync operations.</p>
+
+    <h2 data-i18n="safe_title">Safe Workflow</h2>
+    <ul>
+      <li data-i18n="safe_1">Keep backups before applying write operations.</li>
+      <li data-i18n="safe_2">Always review Preview before running Apply Sync.</li>
+      <li data-i18n="safe_3">Avoid manual edits in Rekordbox while sync changes are being prepared or applied.</li>
+      <li data-i18n="safe_4">If output is unexpected, stop and re-run Compare before continuing.</li>
+    </ul>
+    <p data-i18n="safe_note">Always keep a backup of the current state before running any sync operation.</p>
+
+    <h2 data-i18n="license_title">License Basics</h2>
+    <ul>
+      <li data-i18n="license_1">Activation requires a valid key and successful license server response.</li>
+      <li data-i18n="license_2">License status is determined by license policy.</li>
+      <li data-i18n="license_3">If the license server is unavailable, activation/request actions are disabled until a successful check.</li>
+      <li data-i18n="license_4">Open License details in Settings to review status and timing-related fields.</li>
+    </ul>
+    <p data-i18n="license_note">Check and grace windows are policy-driven and may differ by plan.</p>
+
+    <h2 data-i18n="troubleshoot_title">Troubleshooting</h2>
+    <ul>
+      <li data-i18n="troubleshoot_1">License server unavailable: verify your network, then use Retry in the License tab after connection is restored.</li>
+      <li data-i18n="troubleshoot_2">Activation failed: confirm key format and that the key is active for your plan.</li>
+      <li data-i18n="troubleshoot_3">No changes detected: verify selected library and watched folders, then run Compare again.</li>
+      <li data-i18n="troubleshoot_4">Unexpected result in Preview: stop, review filters/input paths, then compare again before apply.</li>
+      <li data-i18n="troubleshoot_5">Gatekeeper block: allow Open Anyway in Privacy &amp; Security and relaunch.</li>
+    </ul>
+    <p data-i18n="troubleshoot_note">If an issue persists, include exact timing, visible error text, and the last actions taken before the problem.</p>
+
+    <h2 data-i18n="help_title">Support</h2>
+    <p data-i18n="help_text">For setup and technical questions, include app version, a short issue summary, and reproduction steps when you contact support.</p>
+    <p><span data-i18n="help_contact_text">Need help with setup or a technical issue?</span> <a href="./support.html" data-i18n="help_form_link">Open support page</a></p>
+  </main>
+</body>
+</html>
