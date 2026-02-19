@@ -65,6 +65,14 @@ ReSync is designed for controlled changes, but operational safety still depends 
 - Download binaries from GitHub Releases.
 - See `CHANGELOG.md` for latest release notes.
 
+## 🍎 macOS first launch (unsigned build)
+
+If macOS blocks first launch, run this command in Terminal:
+
+```bash
+sudo xattr -dr com.apple.quarantine "/Applications/ReSync.app"
+```
+
 ## ⬇️ Get ReSync
 
 **Official Release Assets:**  
