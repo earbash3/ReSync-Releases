@@ -1,4 +1,4 @@
-# ReSync
+# 🎛️ ReSync
 
 <p>
   Folder workflow sync for Rekordbox.<br>
@@ -12,7 +12,7 @@
   <a href="https://resyncapp.com/support.html"><img alt="Support" src="https://img.shields.io/badge/Support-Open%20support%20page-1d2a44?style=for-the-badge"></a>
 </p>
 
-## What is ReSync?
+## ❓ What is ReSync?
 
 ReSync is built for DJs who organize their music in folders and want Rekordbox to follow that structure without repeated manual maintenance.
 
@@ -25,7 +25,7 @@ The core idea is simple:
 
 This keeps control in your hands while removing a large part of repetitive library admin.
 
-## Why ReSync?
+## 🎧 Why ReSync?
 
 - 🎧 Built around a real DJ pain point: doing the same organizational work twice.
 - 🔎 Compare-first workflow: clear visibility before any write operation.
@@ -33,40 +33,26 @@ This keeps control in your hands while removing a large part of repetitive libra
 - 🧭 Folder-oriented model: your existing structure remains the source of truth.
 - ⏱ Less admin overhead, more time for crate quality and set preparation.
 
-## How it works
+## ⚙️ How it works
 
-### 1) Open
+### 1) 📂 Open
 
 Open or import your Rekordbox library data.
 
-### 2) Compare
+### 2) 🔎 Compare
 
 ReSync scans your selected music-folder structure and compares it with your current Rekordbox state.
 
-### 3) Preview
+### 3) 👀 Preview
 
 You get a reviewable list of proposed additions/removals before any write step.
 
-### 4) Sync
+### 4) ✅ Sync
 
 Changes are applied only after you confirm.
 No confirmation means no write.
 
-## What ReSync does and does not do
-
-### ReSync does
-
-- Keep folder-based and library-based states aligned through compare + approval.
-- Show planned sync effects before apply.
-- Help reduce repetitive manual playlist maintenance.
-
-### ReSync does not
-
-- Perform silent destructive operations in the background.
-- Apply write changes without your confirmation.
-- Replace your backup strategy.
-
-## Safety first
+## 🛟 Safety first
 
 - Always keep a recoverable backup before any write operation.
 - Treat Preview as mandatory before Apply Sync.
@@ -74,14 +60,12 @@ No confirmation means no write.
 
 ReSync is designed for controlled changes, but operational safety still depends on your backup discipline.
 
-## Current release status
+## 🚀 Latest release info
 
-- `v1.0.0` is the initial release line.
-- Release notes are tracked in `CHANGELOG.md`.
-- Public binaries are published as GitHub Release assets in this repository.
-- This project is currently run as an independent solo project.
+- Download binaries from GitHub Releases.
+- See `CHANGELOG.md` for latest release notes.
 
-## Get ReSync
+## ⬇️ Get ReSync
 
 🎯 **Official Release Assets:**  
 https://github.com/earbash3-byte/ReSync-Releases/releases
@@ -98,41 +82,18 @@ https://resyncapp.com/changelog.html
 🛠 **Support Form:**  
 https://resyncapp.com/support.html
 
-## Requirements
+## 🧩 Requirements
 
 - macOS environment supported by current ReSync release
 - Rekordbox library and folder-based workflow
 - Valid license flow for normal write-enabled operation
 
-## FAQ
-
-### Is this for Rekordbox users only?
-
-ReSync is built specifically around Rekordbox workflow alignment.
-
-### Do I still need to build an initial structure manually?
-
-Yes. The initial structure setup is still yours.
-ReSync is focused on ongoing maintenance after that baseline exists.
-
-### Can ReSync apply changes without review?
-
-No. Review-before-apply is a core design choice.
-
-### Does ReSync replace backups?
-
-No. Backups are still mandatory operational safety.
-
-### Where do I report issues or ask policy/license questions?
-
-Use the support page and include app version plus a short, clear description of what happened.
-
-## Need help?
+## 🛠️ Need help?
 
 Use the support page:  
 https://resyncapp.com/support.html
 
-## Support the project
+## ❤️ Support the project
 
 If ReSync saves you time and you want to support development:
 - one-time support
