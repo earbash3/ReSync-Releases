@@ -67,7 +67,9 @@ ReSync is designed for controlled changes, but operational safety still depends 
 
 ## 🍎 macOS first launch (unsigned build)
 
-If macOS blocks first launch, run this command in Terminal:
+Because ReSync is currently unsigned, macOS may block it on first launch.
+
+If this happens, open Terminal and run:
 
 ```bash
 sudo xattr -dr com.apple.quarantine "/Applications/ReSync.app"
