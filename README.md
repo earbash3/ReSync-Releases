@@ -1,90 +1,90 @@
 <div align="center">
 
-# ReSync
-### Your folders. Your workflow. Zero maintenance.
+# ReSync Releases
+### Folder-first sync for Rekordbox
 
-**Stop managing libraries. Start playing.**
+**Public release channel for binaries and Sparkle appcasts**
 
-[![Latest Release](https://img.shields.io/github/v/release/earbash3-byte/ReSync-Releases?sort=semver&style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
-[![Platform](https://img.shields.io/badge/macOS-13.0%2B-0b7285?style=for-the-badge)](https://github.com/earbash3-byte/ReSync)
-[![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-arm64-111827?style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
-[![Intel](https://img.shields.io/badge/Intel-x86__64-111827?style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
+[![Flathub downloads](https://img.shields.io/badge/Flathub%20downloads-not%20available%20yet-9ca3af?style=for-the-badge)](#package-channels)
+[![GitHub downloads](https://img.shields.io/github/downloads/earbash3-byte/ReSync-Releases/total?label=GitHub%20downloads&style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/earbash3-byte/ReSync-Releases?label=latest%20release&style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
+[![Flathub](https://img.shields.io/badge/Flathub-not%20available%20yet-9ca3af?style=for-the-badge)](#package-channels)
+[![Snapcraft](https://img.shields.io/badge/Snapcraft-not%20available%20yet-9ca3af?style=for-the-badge)](#package-channels)
+[![Chocolatey Version](https://img.shields.io/badge/Chocolatey-not%20available%20yet-9ca3af?style=for-the-badge)](#package-channels)
+[![WinGet Package Version](https://img.shields.io/badge/WinGet-not%20available%20yet-9ca3af?style=for-the-badge)](#package-channels)
 
-[Download Latest](https://github.com/earbash3-byte/ReSync-Releases/releases/latest) • [Main Project](https://github.com/earbash3-byte/ReSync) • [Website](https://earbash3-byte.github.io/ReSync)
+[![Download macOS Apple Silicon (DMG)](https://img.shields.io/badge/Download%20DMG-Apple%20Silicon-111827?style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
+[![Download macOS Intel (DMG)](https://img.shields.io/badge/Download%20DMG-Intel-111827?style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-0b7285?style=for-the-badge)](https://github.com/earbash3-byte/ReSync-Releases/releases/latest)
+
+[![Get it from the Snap Store](https://img.shields.io/badge/Get%20it%20from%20the%20Snap%20Store-coming%20soon-9ca3af?style=for-the-badge)](#package-channels)
+[![Get AppImage](https://img.shields.io/badge/Get%20AppImage-coming%20soon-9ca3af?style=for-the-badge)](#package-channels)
+[![Chocolatey](https://img.shields.io/badge/Chocolatey-coming%20soon-9ca3af?style=for-the-badge)](#package-channels)
+
+[Latest Release](https://github.com/earbash3-byte/ReSync-Releases/releases/latest) • [Main Project](https://github.com/earbash3-byte/ReSync) • [Website](https://earbash3-byte.github.io/ReSync)
 
 </div>
 
 ---
 
-## The Problem Every DJ Knows
+## 🎯 What This Repository Is
 
-You spend hours organizing your music folders.
-Then you do the same work again in Rekordbox.
+This repository is the **public release channel** for ReSync:
 
-And when something is missing, you usually don't notice it at home.
-You notice it in the middle of a set.
+- ✅ DMG/ZIP release assets
+- ✅ Sparkle appcast feeds
+- ✅ public release changelog
+- ✅ stable entrypoint for end users
 
-## Why ReSync Exists
+For source code and development workflow, use the main repository:
 
-ReSync was built by a home DJ and developer who got tired of maintaining the same library twice.
+- https://github.com/earbash3-byte/ReSync
 
-If your real workflow lives in Finder/Explorer and folder structure is your source of truth,
-ReSync is built for you.
+## 🚀 Download (Current)
 
-## What ReSync Does
+ReSync currently ships on **macOS**:
 
-ReSync treats your folder structure as the baseline and mirrors it to Rekordbox in a controlled flow.
+- 🍎 Apple Silicon (`arm64`) -> DMG + ZIP
+- 🍎 Intel (`x86_64`) -> DMG + ZIP
 
-- Reads your Rekordbox library
-- Detects what changed in your folders
-- Adds new tracks
-- Removes deleted tracks
-- Keeps the structure in sync
+Download from:
 
-No manual import loops.
-No playlist housekeeping marathon.
-No "did I add this already?" anxiety.
+- https://github.com/earbash3-byte/ReSync-Releases/releases/latest
 
-## Real Workflow (DJ Speed)
+## 🔄 Auto-Update Feeds (Sparkle)
 
-1. Put new tracks into the right folder
-2. Open
-3. Compare
-4. Sync
-5. Done
+Architecture feeds:
 
-You don't manage a library.
-You DJ.
-
-## Download
-
-Release assets are published on GitHub Releases:
-
-- Apple Silicon (`arm64`): ZIP + DMG
-- Intel (`x86_64`): ZIP + DMG
-
-- Latest release: <https://github.com/earbash3-byte/ReSync-Releases/releases/latest>
-
-## Auto-Update Feeds (Sparkle)
-
-Architecture-specific appcasts:
-
-- arm64: <https://earbash3-byte.github.io/ReSync-Releases/appcast-arm64.xml>
-- x86_64: <https://earbash3-byte.github.io/ReSync-Releases/appcast-x86_64.xml>
+- arm64: https://earbash3-byte.github.io/ReSync-Releases/appcast-arm64.xml
+- x86_64: https://earbash3-byte.github.io/ReSync-Releases/appcast-x86_64.xml
 
 Compatibility feed:
 
-- <https://earbash3-byte.github.io/ReSync-Releases/appcast.xml>
+- https://earbash3-byte.github.io/ReSync-Releases/appcast.xml
 
-## Support
+## 📦 Package Channels
 
-- Technical support: <mailto:support@resync.app>
-- Licensing: <mailto:license@resync.app>
+Current channel status:
 
-## About This Repository
+- ✅ GitHub Releases: active
+- ⏳ Flathub: planned
+- ⏳ Snapcraft: planned
+- ⏳ Chocolatey: planned
+- ⏳ WinGet: planned
+- ⏳ AppImage: planned
 
-This repo is the public release channel (assets + appcasts).
+## 🗒️ Changelog
 
-For source code and development:
+Current changelog lives in:
 
-- <https://github.com/earbash3-byte/ReSync>
+- [`CHANGELOG.md`](./CHANGELOG.md)
+
+## 🛟 Support
+
+- Technical support: support@resyncapp.com
+- Licensing: license@resyncapp.com
+
+## ⚠️ Notes
+
+- ReSync is currently distributed via GitHub Releases as the canonical channel.
+- Package-manager channels listed above are roadmap targets until explicitly marked active.
