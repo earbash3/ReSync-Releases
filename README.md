@@ -103,11 +103,17 @@ https://resyncapp.com/support.html
 Use the support page:  
 https://resyncapp.com/support.html
 
-## ❤️ Support the project
+## ❤️ Support ReSync
 
-If ReSync saves you time and you want to support development:
-- one-time support
-- monthly support
-- or just share feedback and bug reports with clear repro steps
+If ReSync helps your workflow and you want to support development, you can support the project on Ko-fi.
+
+As a thank-you, the first 25 supporters who contribute "XY" or higher receive a lifetime license key.
+
+Upcoming features:
+https://resyncapp.com/upcoming.html
+
+Support options:
+- One-time support
+- Monthly support
 
 https://ko-fi.com/resync
