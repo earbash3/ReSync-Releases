@@ -107,7 +107,11 @@ https://resyncapp.com/support.html
 
 If ReSync helps your workflow and you want to support development, you can support the project on Ko-fi.
 
-As a thank-you, the first 25 supporters who contribute "XY" or higher receive a lifetime license key.
+As a thank-you, the first 25 supporters who contribute at least 25 EUR receive a lifetime license key.
+
+Planned public pricing (coming soon):
+- Annual license: 9.90 EUR intro, then 14.90 EUR
+- Lifetime license: first 25 supporters at 25 EUR, then 39.90 EUR
 
 Upcoming features:
 https://resyncapp.com/upcoming.html
