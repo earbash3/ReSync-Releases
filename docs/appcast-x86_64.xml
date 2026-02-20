@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ReSync</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Fri, 20 Feb 2026 20:09:31 +0100</pubDate>
+            <sparkle:version>0545</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/earbash3/ReSync-Releases/releases/download/v1.0.0/ReSync-1.0.0-x86_64.zip" length="63818466" type="application/octet-stream" sparkle:edSignature="P7N2xzZft3HdXHWjJdudGYi90SlLwV1feQaes2TjeHeQNm/pT5C8wekVGQOBslWtiw0Hg0cK5ho/b6zQ9DaZAQ=="/>
+        </item>
+    </channel>
+</rss>
